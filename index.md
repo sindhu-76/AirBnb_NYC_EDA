@@ -9,9 +9,9 @@ Welcome to my data science project exploring Airbnb listings in New York City (2
 - 🏠 Popular room types
 - 📊 Visual insights using Python (pandas, seaborn, matplotlib)
 
-## 📁 View the Full Notebook
+## 📘 View the Full Notebook  
 
-👉 [Click here to view the full notebook](AirBnb_Bookings_Analysis_EDA.ipynb)
+👉 [Click here to view the full notebook](https://nbviewer.org/github/sindhu-76/AirBnb_NYC_EDA/blob/main/AirBnb_Bookings_Analysis_EDA.ipynb)
 
 ## 📌 Dataset
 
